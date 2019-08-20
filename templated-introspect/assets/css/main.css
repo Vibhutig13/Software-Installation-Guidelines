@@ -3367,7 +3367,7 @@
 		padding: 13em 0 11em 0;
 		background-color: #0c0c0c;
 		background-image: url("../../images/img.jpg");
-		background-size: cover;
+		background-size: 1000px 1000px;
 		background-repeat: no-repeat;
 		background-position: 15% left;
 		text-align: left;
